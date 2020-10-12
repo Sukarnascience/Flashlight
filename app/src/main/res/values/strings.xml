@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="sukarna_jana">Sukarna Jana</string>
+    <string name="on">ON</string>
+    <string name="sos">SOS</string>
+    <string name="off">OFF</string>
+    <string name="flach_status">Flach Status</string>
+    <string name="sosMosCode">. . . _ _ _ . . .</string>
+</resources>
